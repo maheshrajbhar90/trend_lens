@@ -1,0 +1,10 @@
+README.md
+setup.py
+trend_lens/__init__.py
+trend_lens/main.py
+trend_lens.egg-info/PKG-INFO
+trend_lens.egg-info/SOURCES.txt
+trend_lens.egg-info/dependency_links.txt
+trend_lens.egg-info/entry_points.txt
+trend_lens.egg-info/requires.txt
+trend_lens.egg-info/top_level.txt
